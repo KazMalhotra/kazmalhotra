@@ -6,8 +6,7 @@ You can find me on the following platforms:
 - Github (obviously): [@kazmalhotra](https://github.com/kazmalhotra)
 - Wikipedia: [KazMalKen](https://en.wikipedia.org/wiki/User:KazMalKen)
 - Keybase: [kazm](https://keybase.io/kazm)
-- Valorant: cause#efct
-- Discord: cause#7096
+
 
 <!--
 **KazMalhotra/kazmalhotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
