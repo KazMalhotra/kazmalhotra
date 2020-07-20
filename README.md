@@ -6,7 +6,7 @@ You can find me on the following platforms:
 - Github (obviously): [@kazmalhotra](https://github.com/kazmalhotra)
 - Wikipedia: [KazMalKen](https://en.wikipedia.org/wiki/User:KazMalKen)
 - Keybase: [kazm](https://keybase.io/kazm)   
-
+- PyPi: [KazMalhotra](https://pypi.org/user/KazMalhotra/)
 My website is at [kazmal.tech](https://kazmal.tech)
 
 <!--
